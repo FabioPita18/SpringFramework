@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <title>Spring 101</title>
+  </head>
+  
+  <body>
+    <h1>Welcome to the course...</h1>
+    <img th:src="@{https://www.comingsoon.net/assets/uploads/2021/05/dragon-ball.jpg}"/>
+  </body>
+</html>

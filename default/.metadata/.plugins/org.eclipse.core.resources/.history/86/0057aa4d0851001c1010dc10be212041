@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <title>Spring 101</title>
+  </head>
+  
+  <body>
+    <h1>Welcome to the course...</h1>
+    <img th:src="@{https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.comingsoon.net%2Fanime%2Fnews%2F1172796-dragon-ball-super-movie-2-leak&psig=AOvVaw1YV-srsaA8iMIFJm_4lEFV&ust=1638272018759000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjN0YC9vfQCFQAAAAAdAAAAABAD}"/>
+  </body>
+</html>
