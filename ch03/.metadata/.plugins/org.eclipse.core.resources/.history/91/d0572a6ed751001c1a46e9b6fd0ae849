@@ -1,0 +1,13 @@
+package com.example.chp03jda;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Chp03jdaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Chp03jdaApplication.class, args);
+	}
+
+}
