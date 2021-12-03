@@ -1,0 +1,5 @@
+package com.pairlearning.expensetracker;
+
+public class Constants {
+
+}
