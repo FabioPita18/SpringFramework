@@ -8786,3 +8786,15 @@ Caused by: java.lang.NullPointerException: Cannot invoke "java.util.concurrent.C
 
 !ENTRY org.eclipse.ui 2 2 2021-12-03 09:50:49.735
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-03 11:23:31.669
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LMOUJNme
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-03 11:23:31.679
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.LMOUJNme
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-03 11:23:31.682
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-03 11:23:31.683
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LMOUJNme => OK
