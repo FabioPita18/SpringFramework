@@ -3,8 +3,8 @@
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
 			<item value="C:\Users\fabio\OneDrive\Desktop\coronavirus-tracker"/>
-			<item value="C:\Users\fabio\Downloads\coronavirus-tracker"/>
 			<item value="C:\Users\fabio\OneDrive\Desktop\Spring\Work\Project2\coronavirus-tracker"/>
+			<item value="C:\Users\fabio\Downloads\coronavirus-tracker"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
